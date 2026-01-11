@@ -51,4 +51,42 @@ I am a final-year **Computer Science** student and published **AI Researcher** b
 **⚙️ DevOps & Tools**<br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n-FF6584?style=flat-square&logo=n8n&logoColor=white" />
-<img src="
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **QuantumQA** | `PyTorch` `QLoRA` `Hugging Face` | **Thesis Project:** Fine-tuned Mistral-7B and Qwen2.5 on a single T4 GPU using 4-bit quantization, achieving 41.3% ROUGE-L improvement. |
+| **Crypto-Sentry** | `FastAPI` `Docker` `LSTM` | **Real-Time AI:** Anomaly detection system for crypto markets. Containerized inference engine with a live PostgreSQL pipeline. |
+| **MessMate** | `Flutter` `Firebase` `Dart` | **Full Stack App:** A hostel management ecosystem with RBAC, automated financial streams, and PDF reporting. |
+
+---
+
+### 🎓 Research & Publications
+
+* **Explainable Deep Learning for Bone Marrow Cell Classification**
+    * *IEEE ICCIT 2025* | First Author | EfficientNet-B0 + Grad-CAM
+* **Sentiment-Guided Market Forecasting Using Next-Gen LLMs**
+    * *IEEE ICCCNT 2025* | Co-Author | Financial Sentiment Analysis
+* **Customized DenseNetX-SG for Sericulture Disease Detection**
+    * *Under Review* | Co-Author | Agricultural AI
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Pranto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Pranto&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Dev-Pranto&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
